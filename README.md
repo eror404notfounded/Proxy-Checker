@@ -13,3 +13,9 @@
    ```bash
    git clone https://github.com/yourusername/proxychecker.git
    cd proxychecker
+2. Установи зависимости:
+   ```bash
+   pip install -r requirements.txt
+3. Запуск:
+ ```bash
+python main.py
