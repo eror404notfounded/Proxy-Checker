@@ -1,8 +1,8 @@
 # 🔍 ProxyChecker — Быстрый и гибкий прокси чекер на Python
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-![License](https://img.shields.io/github/license/yourusername/proxychecker)
-![Stars](https://img.shields.io/github/stars/yourusername/proxychecker?style=social)
+![License](https://img.shields.io/github/license/eror404notfounded/proxychecker)
+![Stars](https://img.shields.io/github/stars/eror404notfounded/proxychecker?style=social)
 
 Прокси чекер, который позволяет быстро и эффективно проверять список HTTP(S)/SOCKS прокси. Поддерживает многопоточность, вывод результатов, кастомные таймауты и удобный CLI.
 
